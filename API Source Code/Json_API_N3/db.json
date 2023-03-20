@@ -1,0 +1,171 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123456",
+      "email": "admin@example.com",
+      "fullName": "Administrator",
+      "address": "123 Example Street, Example City",
+      "phone": "0123456789",
+      "dob": "2000-01-01",
+      "gender": "male"
+    },
+    {
+      "name": "Luong Van Phu",
+      "email": "phudavid1409@gmail.com",
+      "password": "123123",
+      "id": 2
+    },
+    {
+      "name": "Luong Van Phu",
+      "email": "phudavid1409@gmail.com",
+      "password": "123123",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "them 1",
+      "price": 1000,
+      "quantity": 2,
+      "categoryId": 2,
+      "manufacturerId": 2,
+      "id": 3
+    },
+    {
+      "name": "them 1",
+      "price": 1000,
+      "quantity": 2,
+      "categoryId": 2,
+      "manufacturerId": 2,
+      "id": 4
+    },
+    {
+      "name": "them 1",
+      "price": 1000,
+      "quantity": 2,
+      "categoryId": 2,
+      "manufacturerId": 2,
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Sneaker",
+      "description": "Giày thể thao Sneaker"
+    },
+    {
+      "name": "test 1",
+      "id": 2
+    },
+    {
+      "name": "test 1",
+      "id": 3
+    },
+    {
+      "name": "test 1",
+      "id": 4
+    }
+  ],
+  "manufacturers": [
+    {
+      "name": "phu create manu",
+      "description": "them thanh cong 1",
+      "address": "123 HCM",
+      "phone": "0123456789",
+      "id": 2
+    },
+    {
+      "name": "them thanh cong 1",
+      "description": "them thanh cong 1",
+      "address": "123 HCM",
+      "phone": "0123456789",
+      "id": 3
+    },
+    {
+      "name": "them thanh cong 1",
+      "description": "them thanh cong 1",
+      "address": "123 HCM",
+      "phone": "0123456789",
+      "id": 4
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "date": "2022-03-15T00:00:00.000Z",
+      "status": "pending",
+      "shippingFee": 30000,
+      "paymentInfo": {
+        "method": "COD",
+        "address": "123 Example Street, Example City",
+        "phone": "0123456789"
+      },
+      "userId": 1,
+      "items": [
+        {
+          "productId": 1,
+          "quantity": 2,
+          "price": 3290000
+        }
+      ]
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "customer_id": 123,
+      "product_id": 456,
+      "quantity": 1,
+      "id": 5
+    },
+    {
+      "customer_id": 123,
+      "product_id": 456,
+      "quantity": 1,
+      "id": 6
+    },
+    {
+      "customer_id": 123,
+      "product_id": 456,
+      "quantity": 1,
+      "id": 7
+    },
+    {
+      "customer_id": 123,
+      "product_id": 456,
+      "quantity": 1,
+      "id": 8
+    },
+    {
+      "customer_id": 123,
+      "product_id": 456,
+      "quantity": 1,
+      "id": 9
+    }
+  ],
+  "reviews": [
+    {
+      "product_id": 3,
+      "customer_id": 3,
+      "rating": 5,
+      "comment": "abc",
+      "id": 2
+    },
+    {
+      "product_id": 3,
+      "customer_id": 3,
+      "rating": 5,
+      "comment": "abc",
+      "id": 3
+    }
+  ]
+}

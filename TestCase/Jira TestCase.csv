@@ -1,0 +1,405 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Labels,Labels,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Attachment,Attachment,Attachment,Attachment,Custom field (Actual Result),Custom field (Actual end),Custom field (Actual start),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Compass),Custom field (Development),Custom field (Epic Color),Custom field (Epic Name),Custom field (Epic Status),Custom field (Expected Result),Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Rank),Custom field (Request Type),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Test Level),Custom field (Test Steps),Custom field (Testcase Result),Custom field (Total forms),Custom field ([CHART] Date of First Response),Status Category
+S - Verify that the website has a reliable email notification system.,NC-150,10432,Story,In Progress,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 6:58 PM,20/Mar/23 6:59 PM,20/Mar/23 7:11 PM,,,0,Service,,"{noformat}Check if the site has email notifications{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 18.57.24.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 6:58 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 18.57.24.png;https://phudavid1409.atlassian.net/secure/attachment/10081/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+18.57.24.png,,,,"Website has no email response
+",,,,,,,,,,,"Website with email notifications
+",,,,,0|i0019r:,,Sprint 1,,,,,,,,System,"B1: Go to url https://kingshoes.vn/
+B2: Enter email
+",Fail,,,In Progress
+S - Verify that the website has a secure login process.,NC-149,10431,Story,In Progress,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 6:53 PM,20/Mar/23 6:53 PM,20/Mar/23 7:16 PM,,,0,Service,,"{noformat}Check the site has a secure login process for users{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 18.47.40.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 6:53 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 18.47.40.png;https://phudavid1409.atlassian.net/secure/attachment/10080/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+18.47.40.png,,,,"Site without login
+",,,,,,,,,,,"Safe and efficient login process
+",,,,,0|i0019j:,,Sprint 1,,,,,,,,System,"B1: Go to url https://kingshoes.vn/
+B2: Check login
+",Fail,,,In Progress
+S - Verify that the website complies with all relevant data privacy regulations.,NC-148,10430,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 6:49 PM,20/Mar/23 6:50 PM,20/Mar/23 7:16 PM,20/Mar/23 6:49 PM,,0,Service,,"{noformat}Verify the website complies with all relevant data privacy regulations.{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 18.47.17.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 18.47.28.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 18.47.33.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 18.47.40.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 6:49 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 18.47.17.png;https://phudavid1409.atlassian.net/secure/attachment/10076/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+18.47.17.png,20/Mar/23 6:49 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 18.47.28.png;https://phudavid1409.atlassian.net/secure/attachment/10077/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+18.47.28.png,20/Mar/23 6:49 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 18.47.33.png;https://phudavid1409.atlassian.net/secure/attachment/10078/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+18.47.33.png,20/Mar/23 6:49 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 18.47.40.png;https://phudavid1409.atlassian.net/secure/attachment/10079/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+18.47.40.png,"Users are protected data and websites comply with privacy regulations
+",,,,,,,,,,,"Users are protected data and websites comply with privacy regulations
+",,,,,0|i0019b:,,Sprint 1,,,,,,,,System,"B1: Go to url https://kingshoes.vn/bao-mat-thong-tin.html
+B2: See if the site complies with user data regulations
+",Pass,,,Done
+S - Verify that the website displays accurate stock availability information for each product.,NC-147,10429,Story,In Progress,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 6:44 PM,20/Mar/23 6:44 PM,20/Mar/23 7:16 PM,,,0,Product,,"{noformat}Confirm the website shows the correct stock information for each product.{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 18.41.41.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 18.41.47.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 6:44 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 18.41.41.png;https://phudavid1409.atlassian.net/secure/attachment/10075/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+18.41.41.png,20/Mar/23 6:44 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 18.41.47.png;https://phudavid1409.atlassian.net/secure/attachment/10074/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+18.41.47.png,,,"Product not displayed is in stock or out of stock
+",,,,,,,,,,,"Is the product displayed in stock or out of stock?
+",,,,,0|i00193:,,Sprint 1,,,,,,,,System,"B1: Go to url https://kingshoes.vn/air-force-1-shadow-multicolor-ci0919-118.html
+B2: See if the product is showing in stock or out of stock
+",Fail,,,In Progress
+S - Verify that the website provides customers with relevant product recommendations.,NC-146,10428,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 6:26 PM,20/Mar/23 6:27 PM,20/Mar/23 7:16 PM,20/Mar/23 6:26 PM,,0,Product,,"{noformat}Related recommended products{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 18.24.54.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 18.24.29.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 6:26 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 18.24.29.png;https://phudavid1409.atlassian.net/secure/attachment/10072/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+18.24.29.png,20/Mar/23 6:26 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 18.24.54.png;https://phudavid1409.atlassian.net/secure/attachment/10073/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+18.24.54.png,,,"Have recommendations for related products
+",,,,,,,,,,,"Have recommendations for related products
+",,,,,0|i0018v:,,Sprint 1,,,,,,,,System,"B1: Go to url https://kingshoes.vn/dunk-essential-paisley-pack-pink-fd1449-100-chinh-hang-gia-tot-den-king-shoes.html
+B2: Scroll down to see if there are related products
+",Pass,,,Done
+S - Verify that the website displays accurate shipping and delivery estimates.,NC-145,10427,Story,In Progress,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 6:22 PM,20/Mar/23 6:23 PM,20/Mar/23 7:16 PM,,,0,Delivery,,"{noformat}Check if the website shows estimated shipping time{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 18.21.03.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 6:22 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 18.21.03.png;https://phudavid1409.atlassian.net/secure/attachment/10071/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+18.21.03.png,,,,"There is no exact shipping time
+",,,,,,,,,,,"Have an accurate shipping time estimate
+",,,,,0|i0018n:,,Sprint 1,,,,,,,,System,"B1: Go to url https://kingshoes.vn/checkouts
+B2: Check shipping time information
+",Fail,,,In Progress
+S - Verify that the website has an easy-to-use feedback system.,NC-144,10426,Story,To Do,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 5:55 PM,20/Mar/23 5:55 PM,20/Mar/23 7:16 PM,,,0,Service,,"{noformat}Check responsive apps are easy to use{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 17.51.29.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 17.51.41.png|width=1280,height=800!
+
+
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 17.54.36.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 5:55 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 17.51.29.png;https://phudavid1409.atlassian.net/secure/attachment/10070/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+17.51.29.png,20/Mar/23 5:55 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 17.51.41.png;https://phudavid1409.atlassian.net/secure/attachment/10069/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+17.51.41.png,20/Mar/23 5:55 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 17.54.36.png;https://phudavid1409.atlassian.net/secure/attachment/10068/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+17.54.36.png,,"Respond as soon as you click on contacts
+",,,,,,,,,,,"Fastest possible customer response service
+",,,,,0|i0018f:,,Sprint 1,,,,,,,,System,"B1: Go to https://kingshoes.vn/cham-soc-khach-hang.html
+B2: Click feedback contacts like zalo, messenger
+",Pass,,,To Do
+S - Verify that the website has a reliable customer service system.,NC-143,10425,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 5:50 PM,20/Mar/23 5:50 PM,20/Mar/23 7:16 PM,20/Mar/23 5:50 PM,,0,Service,,"{noformat}Check out customer service{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 17.47.44.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 5:50 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 17.47.44.png;https://phudavid1409.atlassian.net/secure/attachment/10067/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+17.47.44.png,,,,"There is a hotline, there is good 24/7 customer care service
+",,,,,,,,,,,"Good customer care service 24/7, answering customers' questions related to the shop's products
+",,,,,0|i00187:,,Sprint 1,,,,,,,,System,B1: Go to url https://kingshoes.vn/cham-soc-khach-hang.html,Pass,,,Done
+S - Verify that the website has accurate and up-to-date product information.,NC-142,10424,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 5:44 PM,20/Mar/23 5:44 PM,20/Mar/23 7:16 PM,20/Mar/23 5:44 PM,,0,Product,,"{noformat}Check products with accurate and constantly updated information{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 17.41.32.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 17.41.51.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 5:44 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 17.41.32.png;https://phudavid1409.atlassian.net/secure/attachment/10066/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+17.41.32.png,20/Mar/23 5:44 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 17.41.51.png;https://phudavid1409.atlassian.net/secure/attachment/10065/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+17.41.51.png,,,"Accurate and up-to-date product information
+",,,,,,,,,,,"Accurate and up-to-date product information
+",,,,,0|i0017z:,,Sprint 1,,,,,,,,System,"B1: Go to url https://kingshoes.vn/nike
+B2: Compare any product in the website and on google
+",Pass,,,Done
+S - Verify that the website has high-quality product images and descriptions.,NC-141,10423,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 5:39 PM,20/Mar/23 5:40 PM,20/Mar/23 7:16 PM,20/Mar/23 5:39 PM,,0,Product,,"{noformat}Check the product website for full images and detailed product descriptions{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 17.37.28.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 5:39 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 17.37.28.png;https://phudavid1409.atlassian.net/secure/attachment/10064/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+17.37.28.png,,,,"Products with main image, product image, shoe size, product price, product code
+",,,,,,,,,,,"View products with full pictures and detailed description
+",,,,,0|i0017r:,,Sprint 1,,,,,,,,System,"B1: Go to url https://kingshoes.vn/air-force-1-shadow-multicolor-ci0919-118.html
+B2: See if the product has full pictures and detailed descriptions
+",Pass,,,Done
+S - Verify that the website has a useful product filter.,NC-140,10422,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 5:35 PM,20/Mar/23 5:35 PM,20/Mar/23 7:16 PM,20/Mar/23 5:35 PM,,0,Search,,"{noformat}Check if the product filter can filter user requests when using the website{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 17.31.19.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 17.31.22.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 17.31.25.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 5:35 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 17.31.19.png;https://phudavid1409.atlassian.net/secure/attachment/10062/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+17.31.19.png,20/Mar/23 5:35 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 17.31.22.png;https://phudavid1409.atlassian.net/secure/attachment/10063/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+17.31.22.png,20/Mar/23 5:35 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 17.31.25.png;https://phudavid1409.atlassian.net/secure/attachment/10061/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+17.31.25.png,,"Find shoe size, price and price category and product name
+",,,,,,,,,,,"Product filters help users find the desired product
+",,,,,0|i0017j:,,Sprint 1,,,,,,,,System,"B1: Go to url https://kingshoes.vn/tim-kiem?search=
+B2: Check product filter
+",Pass,,,Done
+S - Verify that the website has a clear and concise checkout process.,NC-139,10421,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 5:27 PM,20/Mar/23 5:27 PM,20/Mar/23 7:16 PM,20/Mar/23 5:27 PM,,0,Pay,,"{noformat}Check if the site has an optimized checkout process{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 17.25.11.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 17.25.16.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 5:27 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 17.25.11.png;https://phudavid1409.atlassian.net/secure/attachment/10059/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+17.25.11.png,20/Mar/23 5:27 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 17.25.16.png;https://phudavid1409.atlassian.net/secure/attachment/10060/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+17.25.16.png,,,"Cash and bank payment available with QR code if using a bank
+",,,,,,,,,,,"Full payment process such as cash or bank payment
+",,,,,0|i0017b:,,Sprint 1,,,,,,,,System,B1: Go to url https://kingshoes.vn/checkouts/payment,Pass,,,Done
+S - Verify that the website has a user-friendly shopping cart.,NC-138,10420,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 5:21 PM,20/Mar/23 5:21 PM,20/Mar/23 7:16 PM,20/Mar/23 5:21 PM,,0,Cart,,"{noformat}See if the shopping cart is optimally designed for the user{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 17.19.15.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 5:21 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 17.19.15.png;https://phudavid1409.atlassian.net/secure/attachment/10058/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+17.19.15.png,,,,"Optimized shopping cart, easy to see, easy to use
+",,,,,,,,,,,"Optimized shopping cart, easy to see, easy to use
+",,,,,0|i00173:,,Sprint 1,,,,,,,,System,"B1: Go to url https://kingshoes.vn/gio-hang
+B2: See if the shopping cart design is easy to see, optimizes the purchase
+",Pass,,,Done
+"U - Province/city, district/district, ward, commune cannot be left blank",NC-137,10419,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 5:05 PM,20/Mar/23 5:05 PM,20/Mar/23 7:16 PM,20/Mar/23 5:05 PM,,0,Delivery,,"{noformat}Check if the province/city, district/district, ward, commune is blank or not{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 16.53.57.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 17.05.14.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 5:05 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 16.53.57.png;https://phudavid1409.atlassian.net/secure/attachment/10056/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+16.53.57.png,20/Mar/23 5:05 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 17.05.14.png;https://phudavid1409.atlassian.net/secure/attachment/10057/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+17.05.14.png,,,"When selecting all provinces/cities, districts/districts, wards/communes, there will be no more empty information errors
+",,,,,,,,,,,"When selecting all provinces/cities, districts/districts, wards/communes, there will be no more empty information errors
+",,,,,0|i0016v:,,Sprint 1,,,,,,,,Unit,"B1: Go to url https://kingshoes.vn/checkouts
+B2: Do not enter province/city, district/district, ward/commune
+",Pass,,,Done
+U - Delivery address cannot be empty,NC-136,10418,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 4:22 PM,20/Mar/23 4:22 PM,20/Mar/23 7:16 PM,20/Mar/23 4:22 PM,,0,Delivery,,"{noformat}Check if the shipping address is blank or not{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 16.18.23.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 16.21.28.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 4:22 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 16.18.23.png;https://phudavid1409.atlassian.net/secure/attachment/10054/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+16.18.23.png,20/Mar/23 4:22 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 16.21.28.png;https://phudavid1409.atlassian.net/secure/attachment/10055/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+16.21.28.png,,,"Receive information when entering the correct address
+",,,,,,,,,,,"When entering the shipping address, there will be no more blank errors
+",,,,,0|i0016n:,,Sprint 1,,,,,,,,Unit,"B1: Go to url https://kingshoes.vn/checkouts
+B2: Do not enter the address and click continue
+",Pass,,,Done
+U - Phone number must enter 10 characters,NC-135,10417,Story,In Progress,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 4:12 PM,20/Mar/23 4:16 PM,20/Mar/23 7:16 PM,,,0,Delivery,,"{noformat}Check if the phone number in the shipping information is allowed to enter less than 10 characters{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 16.09.05.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 16.12.12.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 4:12 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 16.09.05.png;https://phudavid1409.atlassian.net/secure/attachment/10053/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+16.09.05.png,20/Mar/23 4:12 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 16.12.12.png;https://phudavid1409.atlassian.net/secure/attachment/10052/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+16.12.12.png,,,"VN phone number is not in the correct format when entering any 10 numbers
+",,,,,,,,,,,"The request will be received when all 10 numbers are entered
+",,,,,0|i0016f:,,Sprint 1,,,,,,,,Unit,"B1: Go to url https://kingshoes.vn/checkouts
+B2: Enter less than 10 phone numbers
+",Fail,,,In Progress
+U - Full name and delivery information cannot be left blank,NC-134,10416,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 4:03 PM,20/Mar/23 4:03 PM,20/Mar/23 7:16 PM,20/Mar/23 4:03 PM,,0,Delivery,,"{noformat}Check if the first and last name in the shipping information is blank or not{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 15.57.35.png|width=50%!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 16.02.21.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 4:03 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 15.57.35.png;https://phudavid1409.atlassian.net/secure/attachment/10050/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+15.57.35.png,20/Mar/23 4:03 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 16.02.21.png;https://phudavid1409.atlassian.net/secure/attachment/10051/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+16.02.21.png,,,"Website that receives information when entering first and last name
+",,,,,,,,,,,"Website that receives information when entering first and last name
+",,,,,0|i00167:,,Sprint 1,,,,,,,,Unit,"B1: Go to url https://kingshoes.vn/checkouts
+B2: Click continue without entering first and last name information
+",Pass,,,Done
+S - Verify that the website has a consistent design and branding.,NC-133,10415,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 3:48 PM,20/Mar/23 3:49 PM,20/Mar/23 7:16 PM,20/Mar/23 3:48 PM,,0,,,"{noformat}Check if the website is copied from another website{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 15.42.58.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 3:48 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 15.42.58.png;https://phudavid1409.atlassian.net/secure/attachment/10049/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+15.42.58.png,,,,"Website is registered for SEO standard design
+",,,,,,,,,,,"Exclusively designed website
+",,,,,0|i0015z:,,Sprint 1,,,,,,,,System,"B1: Go to url https://kingshoes.vn/
+B2: Click on https://seowebmaker.com/",Pass,,,Done
+S - Verify that the website has a clear and concise navigation structure.,NC-132,10414,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 3:44 AM,20/Mar/23 3:45 AM,20/Mar/23 7:16 PM,20/Mar/23 3:44 AM,,0,,,"{noformat}Check the site has a clear and concise navigation structure{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 03.41.05.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 03.41.01.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 3:44 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 03.41.01.png;https://phudavid1409.atlassian.net/secure/attachment/10048/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+03.41.01.png,20/Mar/23 3:44 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 03.41.05.png;https://phudavid1409.atlassian.net/secure/attachment/10047/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+03.41.05.png,,,"Website navigation links are easy to see and click easily
+",,,,,,,,,,,"Website navigation links are easy to see and click easily
+",,,,,0|i0015r:,,Sprint 1,,,,,,,,System,"B1: Go to url https://kingshoes.vn/
+B2: Click on https://www.youtube.com/www.KingShoes.vn",Pass,,,Done
+S - Verify that the website loads quickly and efficiently,NC-131,10413,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 3:35 AM,20/Mar/23 3:35 AM,20/Mar/23 7:16 PM,20/Mar/23 3:35 AM,,0,,,"{noformat}Check the website is fast to load and efficient to use{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 03.33.32.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 03.33.39.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 3:35 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 03.33.32.png;https://phudavid1409.atlassian.net/secure/attachment/10045/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+03.33.32.png,20/Mar/23 3:35 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 03.33.39.png;https://phudavid1409.atlassian.net/secure/attachment/10046/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+03.33.39.png,,,"Websites load quickly and efficiently
+",,,,,,,,,,,"Websites load quickly and efficiently
+",,,,,0|i0015j:,,Sprint 1,,,,,,,,System,"B1: Go to url https://kingshoes.vn/
+B2: Reload web",Pass,,,Done
+S - Verify that the website is secure and user data is protected,NC-130,10412,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 3:28 AM,20/Mar/23 3:29 AM,20/Mar/23 7:16 PM,20/Mar/23 3:28 AM,,0,,,"{noformat}Website is secure and safe for website users{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 03.23.52.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 03.24.01.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 03.24.08.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 3:28 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 03.23.52.png;https://phudavid1409.atlassian.net/secure/attachment/10042/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+03.23.52.png,20/Mar/23 3:28 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 03.24.01.png;https://phudavid1409.atlassian.net/secure/attachment/10044/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+03.24.01.png,20/Mar/23 3:28 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 03.24.08.png;https://phudavid1409.atlassian.net/secure/attachment/10043/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+03.24.08.png,,"The site has a privacy policy and is safe to use
+",,,,,,,,,,,"The site will be secure and safe to use
+",,,,,0|i0015b:,,Sprint 1,,,,,,,,System,"B1: https://kingshoes.vn/bao-mat-thong-tin.html
+",Pass,,,Done
+S - Verify that the website is accessible for users with disabilities.,NC-129,10411,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 3:20 AM,20/Mar/23 3:20 AM,20/Mar/23 7:16 PM,20/Mar/23 3:20 AM,,0,,,"{noformat}Check that the site is accessible to users with disabilities{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 03.09.10.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 3:20 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 03.09.10.png;https://phudavid1409.atlassian.net/secure/attachment/10041/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+03.09.10.png,,,,"The site is open to everyone
+",,,,,,,,,,,"The site is open to everyone
+",,,,,0|i00153:,,Sprint 1,,,,,,,,System,B1: Go to url https://kingshoes.vn/,Pass,,,Done
+S - Verify that the website is compatible with different web browsers.,NC-128,10410,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 3:00 AM,20/Mar/23 3:01 AM,20/Mar/23 7:16 PM,20/Mar/23 3:00 AM,,0,,,"{noformat}Check the website is compatible with different web browsers{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 02.55.00.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 02.56.55.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 3:00 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 02.55.00.png;https://phudavid1409.atlassian.net/secure/attachment/10040/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+02.55.00.png,20/Mar/23 3:00 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 02.56.55.png;https://phudavid1409.atlassian.net/secure/attachment/10039/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+02.56.55.png,,,"Can be used on CocCoc, Google,..",,,,,,,,,,,"The site is compatible on many different web browsers
+",,,,,0|i0014v:,,Sprint 1,,,,,,,,System,"B1: Search Kingshoes on CocCoc, Google,....
+B2: Click on website",Pass,,,Done
+S - Verify that the website is responsive on different screen sizes and resolutions.,NC-127,10409,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 2:51 AM,20/Mar/23 2:51 AM,20/Mar/23 7:16 PM,20/Mar/23 2:51 AM,,0,Product,,"{noformat}Confirm responsive website on different screen sizes and resolutions.{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 02.47.00.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 02.47.23.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 2:51 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 02.47.00.png;https://phudavid1409.atlassian.net/secure/attachment/10037/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+02.47.00.png,20/Mar/23 2:51 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 02.47.23.png;https://phudavid1409.atlassian.net/secure/attachment/10038/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+02.47.23.png,,,"Website can be zoomed in and out in size and resolution
+",,,,,,,,,,,"Websites respond to size and resolution when zooming in and out
+",,,,,0|i0014n:,,Sprint 1,,,,,,,,System,"B1: Go to url https://kingshoes.vn/
+B2: Zoom in and out the web
+",Pass,,,Done
+S - Verify that the website can handle multiple user requests simultaneously.,NC-126,10408,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 2:43 AM,20/Mar/23 2:44 AM,20/Mar/23 7:16 PM,20/Mar/23 2:43 AM,,0,Product,,"{noformat}Test a website that can handle multiple user requests concurrently{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 02.41.01.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 2:43 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 02.41.01.png;https://phudavid1409.atlassian.net/secure/attachment/10036/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+02.41.01.png,,,,"Website can handle using product filter
+",,,,,,,,,,,"The site successfully processed the user request
+",,,,,0|i0014f:,,Sprint 1,,,,,,,,System,"B1: Go to url https://kingshoes.vn/
+B2: Use product filter to request
+",Pass,,,Done
+I - Verify that the shoe price is correctly passed from the product page to the product filter.,NC-125,10407,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 2:27 AM,20/Mar/23 2:28 AM,20/Mar/23 7:16 PM,20/Mar/23 2:27 AM,,0,Product,,"{noformat}The shoe price confirmation is correctly moved from the product page to the product filter.{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 02.25.23.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 2:27 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 02.25.23.png;https://phudavid1409.atlassian.net/secure/attachment/10035/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+02.25.23.png,,,,"Shoe prices on product page and filter match
+",,,,,,,,,,,"Shoe price correctly moved from product page to product filter
+",,,,,0|i00147:,,Sprint 1,,,,,,,,Integration,"B1: Go to url https://kingshoes.vn/
+B2: Go to the product page and compare the selected product with the price filter
+",Pass,,,Done
+I - Verify that the shoe color is correctly passed from the product page to the product filter.,NC-124,10406,Story,In Progress,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 2:21 AM,20/Mar/23 2:21 AM,20/Mar/23 7:16 PM,,,0,Search,,"{noformat}Confirm that the shoe color is correctly transferred from the product page to the product filter.{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 02.11.05.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 2:21 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 02.11.05.png;https://phudavid1409.atlassian.net/secure/attachment/10034/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+02.11.05.png,,,,"Product filter has no product color
+",,,,,,,,,,,"The shoe color is correctly transferred from the product page to the product filter.
+",,,,,0|i0013z:,,Sprint 1,,,,,,,,Integration,"B1: Go to url https://kingshoes.vn/
+B2: Go to product filter and choose color
+",,,,In Progress
+I - Verify that the shoe size is correctly passed from the product page to the product filter.,NC-123,10405,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 2:13 AM,20/Mar/23 2:16 AM,20/Mar/23 7:16 PM,20/Mar/23 2:13 AM,,0,Product,Search,"{noformat}Shoe size confirmation is passed correctly from the product page to the product filter{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 02.11.05.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 2:13 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 02.11.05.png;https://phudavid1409.atlassian.net/secure/attachment/10033/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+02.11.05.png,,,,"Shoe size is correctly transferred from product page to product filter
+",,,,,,,,,,,"The shoe size is correctly passed from the product page to the product filter.
+",,,,,0|i0013r:,,Sprint 1,,,,,,,,Integration,"B1: Go to url https://kingshoes.vn/
+B2: Go to the product filter and choose your shoe size
+",Pass,,,Done
+I - Verify that the shoe model is correctly passed from the product page to the search bar.,NC-122,10404,Story,In Progress,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 2:08 AM,20/Mar/23 2:17 AM,20/Mar/23 7:16 PM,,,0,Product,,"{noformat}The shoe model is moved with the correct information from the product page to the search bar{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 02.06.39.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 2:08 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 02.06.39.png;https://phudavid1409.atlassian.net/secure/attachment/10032/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+02.06.39.png,,,,"Must click on the product
+",,,,,,,,,,,"The shoe model is moved with the correct information from the product page to the search bar
+",,,,,0|i0013j:,,Sprint 1,,,,,,,,Integration,"B1: Go to url https://kingshoes.vn/
+B2: Go to site product and search product",Fail,,,In Progress
+I - Verify that the shipping information is correctly passed from the checkout page to the order summary.,NC-121,10403,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 2:03 AM,20/Mar/23 2:03 AM,20/Mar/23 7:16 PM,20/Mar/23 2:03 AM,,0,Pay,,"{noformat}Confirmation of shipping information is correctly transferred from the checkout page to the order summary.{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 01.59.42.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 2:03 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 01.59.42.png;https://phudavid1409.atlassian.net/secure/attachment/10031/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+01.59.42.png,,,,"Shipping information is correctly transferred from the checkout page to the order summary
+",,,,,,,,,,,"Shipping information is correctly transferred from the checkout page to the order summary
+",,,,,0|i0013b:,,Sprint 1,,,,,,,,Integration,"B1: Go to url https://kingshoes.vn/
+B2: Go to cart and go to shipping information
+B3: Go Payment page",Pass,,,Done
+I - Verify that the checkout page and the payment gateway are integrated correctly.,NC-120,10402,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 1:55 AM,20/Mar/23 1:57 AM,20/Mar/23 7:16 PM,20/Mar/23 1:55 AM,,0,Pay,,"{noformat}Verify the payment page and payment gateway are correctly integrated.{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 01.51.37.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 1:55 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 01.51.37.png;https://phudavid1409.atlassian.net/secure/attachment/10030/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+01.51.37.png,,,,"Payment page and payment gateway are integrated correctly.
+",,,,,,,,,,,"Payment page and payment gateway are integrated correctly.
+",,,,,0|i00133:,,Sprint 1,,,,,,,,Integration,"B1: Go to url https://kingshoes.vn/
+B2: Go to cart and order
+B3: Click on the payment method",Pass,,,Done
+I - Verify that the product filter and the search bar are integrated correctly.,NC-119,10401,Story,In Progress,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 1:45 AM,20/Mar/23 1:46 AM,20/Mar/23 7:16 PM,,,0,Search,,"{noformat}Confirm product filter and search bar integrate correctly{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 01.37.44.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 1:45 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 01.37.44.png;https://phudavid1409.atlassian.net/secure/attachment/10029/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+01.37.44.png,,,,"Unable to integrate
+",,,,,,,,,,,"Product filter and search bar are integrated correctly.
+",,,,,0|i0012v:,,Sprint 1,,,,,,,,Integration,"B1: Go to url https://kingshoes.vn/
+B2: Go to search and product filter
+",Fail,,,In Progress
+I - Verify that the remove-from-cart button and the cart page are integrated correctly.,NC-118,10400,Story,In Progress,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 1:33 AM,20/Mar/23 1:33 AM,20/Mar/23 7:16 PM,,,0,Cart,,"{noformat}Confirm the remove from cart button and cart page are integrated correctly.{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 01.27.05.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 01.27.09.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 1:33 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 01.27.05.png;https://phudavid1409.atlassian.net/secure/attachment/10027/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+01.27.05.png,20/Mar/23 1:33 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 01.27.09.png;https://phudavid1409.atlassian.net/secure/attachment/10028/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+01.27.09.png,,,"Not integrated
+",,,,,,,,,,,"Remove from cart and cart buttons are integrated correctly
+",,,,,0|i0012n:,,Sprint 1,,,,,,,,Integration,"B1: Go to url https://kingshoes.vn/
+B2: Go to cart and detele product",Fail,,,In Progress
+I - Verify that the add-to-cart button and the cart page are integrated correctly.,NC-117,10399,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,20/Mar/23 1:21 AM,20/Mar/23 1:23 AM,20/Mar/23 7:16 PM,20/Mar/23 1:22 AM,,0,Cart,,"{noformat}Check that the add to cart button and the cart page are correctly integrated together{noformat}
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 01.14.18.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 01.14.22.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-20 lúc 01.14.26.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,20/Mar/23 1:22 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 01.14.18.png;https://phudavid1409.atlassian.net/secure/attachment/10026/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+01.14.18.png,20/Mar/23 1:22 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 01.14.22.png;https://phudavid1409.atlassian.net/secure/attachment/10024/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+01.14.22.png,20/Mar/23 1:22 AM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-20 lúc 01.14.26.png;https://phudavid1409.atlassian.net/secure/attachment/10025/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-20+lu%CC%81c+01.14.26.png,,"Add cart button and integrated shopping cart as one
+",,,,,,,,,,,"Add cart button and integrated shopping cart as one
+",,,,,0|i0012f:,,Sprint 1,,,,,,,,Integration,"B1: Go to url https://kingshoes.vn/
+B2: Go to product and click one product",Pass,,,Done
+U - Verify that the product filter correctly filters the shoes based on price range.,NC-116,10398,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,19/Mar/23 11:52 PM,19/Mar/23 11:53 PM,20/Mar/23 7:16 PM,19/Mar/23 11:53 PM,,0,Search,,"{noformat}Use exact product filters based on price range{noformat}
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 23.42.46.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 23.49.57.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,19/Mar/23 11:52 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 23.42.46.png;https://phudavid1409.atlassian.net/secure/attachment/10023/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+23.42.46.png,19/Mar/23 11:52 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 23.49.57.png;https://phudavid1409.atlassian.net/secure/attachment/10022/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+23.49.57.png,,,Right according to the price,,,,,,,,,,,"The filter will filter properly by price
+",,,,,0|i00127:,,Sprint 1,,,,,,,,Unit,"B1: Go to url https://kingshoes.vn/
+B2: Go to the product filter in the search bar
+B3: Select price to filter products
+
+",Pass,,,Done
+U - Verify that the product filter correctly filters the shoes based on shoe model.,NC-115,10397,Story,In Progress,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,19/Mar/23 11:44 PM,19/Mar/23 11:45 PM,20/Mar/23 7:16 PM,,,0,Search,,"{noformat}The product filter properly filters the shoe based on the shoe model.{noformat}
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 23.42.46.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,19/Mar/23 11:44 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 23.42.46.png;https://phudavid1409.atlassian.net/secure/attachment/10021/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+23.42.46.png,,,,"Product filter without shoe model
+",,,,,,,,,,,"The product filter will show the right shoe model you are looking for
+",,,,,0|i0011z:,,Sprint 1,,,,,,,,Unit,"B1: Go to url https://kingshoes.vn/
+B2: Go to the product filter in the search bar
+B3: Choose a shoes model
+",Fail,,,In Progress
+U - Verify that the product filter correctly filters the shoes based on shoe color.,NC-114,10396,Story,In Progress,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,19/Mar/23 11:38 PM,19/Mar/23 11:40 PM,20/Mar/23 7:16 PM,,,0,Product,,"{noformat}Product filter properly filters shoes based on shoe color.{noformat}
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 23.18.24.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,19/Mar/23 11:38 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 23.18.24.png;https://phudavid1409.atlassian.net/secure/attachment/10020/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+23.18.24.png,,,,"Filter without shoe color
+",,,,,,,,,,,"Show products with the correct color of filtered shoes
+",,,,,0|i0011r:,,Sprint 1,,,,,,,,Unit,"B1: Go to url https://kingshoes.vn/
+B2: Click on the search icon to the product set
+B3: Filter shoe color
+",Fail,,,In Progress
+U - Verify that the product filter correctly filters the shoes based on shoe size.,NC-113,10395,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,19/Mar/23 11:33 PM,19/Mar/23 11:33 PM,20/Mar/23 7:16 PM,19/Mar/23 11:33 PM,,0,Product,,"{noformat}Product filter properly filters shoes based on shoe size.{noformat}
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 23.04.03.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 23.30.37.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 23.29.53.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,19/Mar/23 11:33 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 23.04.03.png;https://phudavid1409.atlassian.net/secure/attachment/10017/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+23.04.03.png,19/Mar/23 11:33 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 23.29.53.png;https://phudavid1409.atlassian.net/secure/attachment/10018/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+23.29.53.png,19/Mar/23 11:33 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 23.30.37.png;https://phudavid1409.atlassian.net/secure/attachment/10019/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+23.30.37.png,,"The product filter will show the correct shoe size
+",,,,,,,,,,,"The product filter will show the correct shoe size
+",,,,,0|i0011j:,,Sprint 1,,,,,,,,Unit,"B1: Go to url https://kingshoes.vn/
+B2: Go to the product page, click search and proceed with the search
+",Pass,,,Done
+U - Verify that the search bar returns relevant search results for a specific shoe color.,NC-112,10394,Story,In Progress,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,19/Mar/23 11:25 PM,19/Mar/23 11:26 PM,20/Mar/23 7:16 PM,,,0,Product,,"{noformat}The search bar returns relevant search results for a particular shoe color.{noformat}
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 23.18.24.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,19/Mar/23 11:25 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 23.18.24.png;https://phudavid1409.atlassian.net/secure/attachment/10016/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+23.18.24.png,,,,"Search bar has no shoe color
+",,,,,,,,,,,"The search bar will show the shoe color you are looking for
+",,,,,0|i0011b:,,Sprint 1,,,,,,,,Unit,"B1: Go to url https://kingshoes.vn/
+B2: Find a shoe color on search and see the results
+",Fail,,,In Progress
+U - Verify that the search bar returns relevant search results for a specific shoe size.,NC-111,10393,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,19/Mar/23 11:14 PM,19/Mar/23 11:19 PM,20/Mar/23 7:16 PM,19/Mar/23 11:14 PM,,0,Product,,"{noformat}The search bar returns relevant search results for a particular shoe size.{noformat}
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 23.04.03.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,19/Mar/23 11:14 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 23.04.03.png;https://phudavid1409.atlassian.net/secure/attachment/10015/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+23.04.03.png,,,,"Product page with product display by shoe size search
+",,,,,,,,,,,"The product page will show the shoe sizes you searched for
+",,,,,0|i00113:,,Sprint 1,,,,,,,,Unit,"B1: Go to url https://kingshoes.vn/
+B2: Enter the shoe size you are looking for and click search
+",Pass,,,Done
+U - Verify that the search bar returns relevant search results for a specific shoe model.,NC-110,10392,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,19/Mar/23 8:23 PM,19/Mar/23 8:24 PM,20/Mar/23 7:16 PM,19/Mar/23 8:23 PM,,0,Search,,"{noformat}Confirm that the search bar returns relevant search results for a particular shoe model.{noformat}
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 20.21.55.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 20.22.04.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,19/Mar/23 8:23 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 20.21.55.png;https://phudavid1409.atlassian.net/secure/attachment/10013/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+20.21.55.png,19/Mar/23 8:23 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 20.22.04.png;https://phudavid1409.atlassian.net/secure/attachment/10014/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+20.22.04.png,,,"The search bar displays the product to be searched
+
+
+",,,,,,,,,,,"The search bar displays the product to be searched
+
+",,,,,0|i0010v:,,Sprint 1,,,,,,,,Unit,"B1: Go to url https://kingshoes.vn/
+B2: Enter the name of the product you are looking for",Pass,,,Done
+U - Verify that the checkout page displays the correct order summary.,NC-109,10391,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,19/Mar/23 8:20 PM,20/Mar/23 7:06 PM,20/Mar/23 7:04 PM,20/Mar/23 7:06 PM,,0,Pay,,"{noformat}Confirm the checkout page shows the correct order summary{noformat}
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 20.15.29.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,19/Mar/23 8:20 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 20.15.29.png;https://phudavid1409.atlassian.net/secure/attachment/10012/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+20.15.29.png,,,,"The checkout page shows the correct order summary
+
+",,,,,,,,,,,"The checkout page shows the correct order summary
+",,,,,0|i0010n:,,Sprint 1,,,,,,,,Unit,"B1: Go to url https://kingshoes.vn/
+B2: Go to cart product
+B3: Click pay",Pass,,,Done
+U - Verify that the checkout page displays the correct payment options.,NC-108,10390,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,19/Mar/23 8:17 PM,19/Mar/23 8:24 PM,20/Mar/23 7:16 PM,19/Mar/23 8:17 PM,,0,Pay,,"{noformat}Confirm the options in the payment page are correct{noformat}
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 20.15.29.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,19/Mar/23 8:17 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 20.15.29.png;https://phudavid1409.atlassian.net/secure/attachment/10011/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+20.15.29.png,,,,"The options in the payment page are correct
+",,,,,,,,,,,"The options in the payment page are correct
+",,,,,0|i0010f:,,Sprint 1,,,,,,,,Unit,"B1: Go to url https://kingshoes.vn/
+B2: Go to cart product
+B3: Click pay",Pass,,,Done
+U - Verify that the checkout page displays the correct shipping information.,NC-107,10389,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,19/Mar/23 8:11 PM,19/Mar/23 8:24 PM,20/Mar/23 7:16 PM,19/Mar/23 8:23 PM,,0,Pay,,"{noformat}Confirm shipping information in the checkout page is correct{noformat}
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 20.03.33.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,19/Mar/23 8:11 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 20.03.33.png;https://phudavid1409.atlassian.net/secure/attachment/10010/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+20.03.33.png,,,,"Accurate shipping information
+",,,,,,,,,,,"Accurate shipping information
+",,,,,0|i00107:,,Sprint 1,,,,,,,,Unit,"B1: Go to url https://kingshoes.vn/
+B2: Go to cart and click pay
+B3: Select province/city, district/district, ward/commune and address",Pass,,,Done
+U - Verify that the cart page displays the correct quantity of each item in the cart.,NC-106,10388,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,19/Mar/23 7:50 PM,19/Mar/23 8:11 PM,20/Mar/23 7:16 PM,19/Mar/23 7:50 PM,,0,Cart,,"{noformat}Go to the url https://kingshoes.vn/. Add the products to the cart and see if the quantity of each item in the cart is displayed correctly{noformat}
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 19.45.03.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,19/Mar/23 7:50 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 19.45.03.png;https://phudavid1409.atlassian.net/secure/attachment/10009/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+19.45.03.png,,,,"Quantity shown is correct for each item
+",,,,,,,,,,,"Quantity shown is correct for each item
+",,,,,0|i000zz:,,Sprint 1,,,,,,,,Unit,"B1: Go to url https://kingshoes.vn/
+B2: Go to site product
+B3: Go to cart to see if the displayed quantity is correct for each item
+",Pass,,,Done
+U - Verify that the cart page displays the correct total price of all items in the cart.,NC-105,10387,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,19/Mar/23 7:26 PM,19/Mar/23 8:11 PM,20/Mar/23 7:16 PM,19/Mar/23 7:27 PM,,0,Cart,,"{noformat}On the product page add 2 to 3 products to the cart. View cart to check if the total price of the products in the cart is correct{noformat}
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 19.03.40.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,19/Mar/23 7:26 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 19.03.40.png;https://phudavid1409.atlassian.net/secure/attachment/10008/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+19.03.40.png,,,,"Total products add up right price
+",,,,,,,,,,,"Total products add up right price
+",,,,,0|i000zr:,,Sprint 1,,,,,,,,Unit,"B1: Go url https://kingshoes.vn/
+B2: Go to product page and click add product to cart
+B3: Go to the cart to check the total of the products added together to see if the price is correct",Pass,,,Done
+U - Verify that the remove-from-cart button removes the correct shoe from the cart.,NC-104,10386,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,19/Mar/23 6:36 PM,19/Mar/23 6:37 PM,20/Mar/23 7:16 PM,19/Mar/23 6:36 PM,,0,Product,,"{noformat}Go to the shopping cart and press the delete button to see if the delete button deletes the correct product{noformat}
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 18.32.12.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 18.32.51.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,19/Mar/23 6:36 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 18.32.12.png;https://phudavid1409.atlassian.net/secure/attachment/10001/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+18.32.12.png,19/Mar/23 6:36 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 18.32.51.png;https://phudavid1409.atlassian.net/secure/attachment/10000/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+18.32.51.png,,,"Successfully deleted the product 
+",,,,,,,,,,,"Successfully deleted the product to be deleted
+",,,,,0|i000zj:,,Sprint 1,,,,,,,,Unit,"B1: Go url https://kingshoes.vn/
+B2: Add products to cart and view cart
+B3: Press the delete button",Pass,,,Done
+U - Verify that the add-to-cart button adds the correct shoe to the cart.,NC-103,10385,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,19/Mar/23 6:24 PM,19/Mar/23 6:41 PM,20/Mar/23 7:16 PM,19/Mar/23 6:41 PM,,0,Product,,"{noformat}Go to the url https://kingshoes.vn/ click add products to cart and go to the cart to check if the right products are available{noformat}
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 18.40.16.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 18.40.31.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,19/Mar/23 6:41 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 18.40.16.png;https://phudavid1409.atlassian.net/secure/attachment/10003/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+18.40.16.png,19/Mar/23 6:41 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 18.40.31.png;https://phudavid1409.atlassian.net/secure/attachment/10002/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+18.40.31.png,,,"Confirm add to cart button add correct shoes to cart.
+",,,,,,,,,,,"Confirm add to cart button add correct shoes to cart.
+",,,,,0|i000zb:,,Sprint 1,,,,,,,,Unit,"B1: Go url https://kingshoes.vn/
+B2: See the add to cart button add the correct shoes to the cart.
+",Pass,,,Done
+U - Verify that the product page displays the correct shoe size and price.,NC-102,10384,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,19/Mar/23 1:03 PM,19/Mar/23 6:45 PM,20/Mar/23 7:16 PM,19/Mar/23 1:03 PM,,0,Product,,"{noformat}Go to the url and check if the product page shows the correct shoe size and price{noformat}
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 18.44.51.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 18.45.00.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,19/Mar/23 6:45 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 18.44.51.png;https://phudavid1409.atlassian.net/secure/attachment/10005/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+18.44.51.png,19/Mar/23 6:45 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 18.45.00.png;https://phudavid1409.atlassian.net/secure/attachment/10004/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+18.45.00.png,,,Website shows the correct shoes size and price,,,,,,,,,,,Website shows the correct shoes size and price,,,,,0|i000z3:,,Sprint 1,,,,,,,,Unit,"B1: Go url https://kingshoes.vn/
+B2: Confirm the website shows the correct shoe size and price
+",Pass,,,Done
+U- Verify that the product page displays the correct shoe model and color.,NC-101,10383,Story,Done,NC,N3_CD21CT7,software,Lượng Văn Phú,62995d2be000550067e775b8,,Medium,Done,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,19/Mar/23 12:35 PM,19/Mar/23 6:57 PM,20/Mar/23 7:16 PM,19/Mar/23 12:37 PM,,0,Product,,"{noformat}Go to the url and check the product page is showing the correct shoe style and color{noformat}
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 18.44.51.png|width=1280,height=800!
+
+!Ảnh chụp Màn hình 2023-03-19 lúc 18.45.00.png|width=1280,height=800!",,Nguyễn Hoàng Phú,638d9799f6c85b343c0c8df7,,,,,,,,,19/Mar/23 6:57 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 18.44.51.png;https://phudavid1409.atlassian.net/secure/attachment/10006/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+18.44.51.png,19/Mar/23 6:57 PM;ug:398387c2-95ec-4876-ba3f-7d743c55a1ca;Ảnh chụp Màn hình 2023-03-19 lúc 18.45.00.png;https://phudavid1409.atlassian.net/secure/attachment/10007/A%CC%89nh+chu%CC%A3p+Ma%CC%80n+hi%CC%80nh+2023-03-19+lu%CC%81c+18.45.00.png,,,The picture is true to the product name,,,,,,,,,,,"The picture is true to the product name
+",,,,,0|i000yv:,,Sprint 1,,,,,,,,Unit,"B1: Go url https://kingshoes.vn/
+B2: Check the image is correct with the product",Pass,,,Done
